@@ -1,0 +1,6 @@
+{
+    "cmd": ["E:/Anaconda3/envs/ptCam/python.exe", "-u","-i", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+    "quiet": true
+}
