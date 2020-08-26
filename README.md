@@ -3,6 +3,7 @@
 packages:
 
 SideBarEnhancements
+wordHighlight
 predawn
 
 bracket highlighter
