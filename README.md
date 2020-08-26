@@ -6,3 +6,4 @@ predawn
 Material Theme
 bracket highlighter
 Anaconda
+conda
